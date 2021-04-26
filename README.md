@@ -15,7 +15,7 @@ I'm a lover of FOSS projects. Mainly Elemenatary and Insomnia. Recently I'm tryi
 - 🎩 Mechanical Keyboard Lover
 - 🎩 Community Manager ❤
 
-In the not-so-FOSS world, I'm a full stack developer. Tools of our choice are Nest.js, Swagger & PHP.
+In the not-so-FOSS world, I'm a full stack developer. Tools of our choice are Nest.js, Golang & PHP.
 
 #### More about me
 
