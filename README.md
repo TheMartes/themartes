@@ -22,8 +22,7 @@
 - 🙂 Pronouns: **he/him**
 
 ### Tools of the trade
-<img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge">
-<img src="https://img.shields.io/badge/golang-fafbfc?logo=go&style=for-the-badge">
+<img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge"> <img src="https://img.shields.io/badge/golang-fafbfc?logo=go&style=for-the-badge">
 <img src="https://img.shields.io/badge/Typescript-fafbfc?logo=typescript&style=for-the-badge">
 <img src="https://img.shields.io/badge/PostgreSQL-fafbfc?logo=postgresql&style=for-the-badge">
 <img src="https://img.shields.io/badge/nginx-019539?logo=nginx&style=for-the-badge">
