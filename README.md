@@ -1,5 +1,4 @@
 ## Hey there 👋, I'm [Matej](https://twitter.com/TheMartes)!  
-<hr>
 
 - 🔭 I'm Self-Taught Developer.
 - 🌱 I love Free & Open Source Software.
