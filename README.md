@@ -1,6 +1,5 @@
-## Hey there 👋, I'm [Matej](https://twitter.com/TheMartes)!  
+## Hey there 👋, I'm [Matej](https://x.com/TheMartes_)!
 
-- 🔭 I'm Self-Taught Developer.
-- 🌱 I love Free & Open Source Software.
-- 💪 Currently Working in [@Betsys](https://www.linkedin.com/company/betsys/)
-- 🖥 My current tools of trade are [here](https://martes.notion.site/What-I-use-bcdabd5c5ed0422f90a75c885ec92b9c)
+This github doesn't necessarily represents my activity as developer as I'm mostly working on self-hosted git hostings.
+
+Open-Source is kinda cool, mostly not, but exceptions do exists. See my [dotfiles](https://github.com/themartes/dotfiles) to learn more.
